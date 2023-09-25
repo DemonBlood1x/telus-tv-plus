@@ -49,6 +49,6 @@ Follow these steps to run the project in IntelliJ:
 | 9    | Monitor the IntelliJ console for any output or errors. |
 | 10   | You can also set breakpoints and use debugging features as needed. |
 
-**In a future update, we will include instructions on how to run tests in handle mode using commands.**
+**In a future update, I will include instructions on how to run tests in handle mode using commands.**
 
 That's it! You've successfully run your project in IntelliJ IDEA.
