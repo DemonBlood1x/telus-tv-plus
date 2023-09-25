@@ -31,3 +31,24 @@ Follow these steps to perform the automated tests:
 After completing the steps, the following expected result should be observed:
 
 - The asset with an 18+ rating should be displayed.
+
+# How to Run on IntelliJ
+
+Follow these steps to run the project in IntelliJ:
+
+| Step | Description |
+|------|-------------|
+| 1    | Open IntelliJ IDEA. |
+| 2    | Click on "File" in the top menu. |
+| 3    | Select "Open" and navigate to the project directory. |
+| 4    | Choose the project folder and click "Open." |
+| 5    | Wait for IntelliJ to index the project. |
+| 6    | In the project explorer, locate the 'test' folder then click on the 'TelusTvPlusTest' class. |
+| 7    | Right-click on the test class and select "Run". |
+| 8    | Your application should now start running. |
+| 9    | Monitor the IntelliJ console for any output or errors. |
+| 10   | You can also set breakpoints and use debugging features as needed. |
+
+**In a future update, we will include instructions on how to run tests in handle mode using commands.**
+
+That's it! You've successfully run your project in IntelliJ IDEA.
